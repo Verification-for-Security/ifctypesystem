@@ -3,7 +3,7 @@ function hasse(){
 }
 
 function func1(){
-    type(o, "pub")
+    type(o, "obs")
     o = returnsec()
 }
 function returnsec(){
